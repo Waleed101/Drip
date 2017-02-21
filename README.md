@@ -1,4 +1,4 @@
-<div style="text-align:center">![ScreenShot](http://precisionfarming.tk/img/logo.png)</div>
+![ScreenShot](http://precisionfarming.tk/img/logo.png?style=centerme)
 
 
 This is the private repository for the continuation of EDC 2015, and will be used in the 2016 - 2017
