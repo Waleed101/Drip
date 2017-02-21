@@ -1,0 +1,8 @@
+[
+ {"name":"Adam","Age":18,
+ 	"Address":{"Street":"1000 Brooklyn Meadow","City":"Denver"}},
+ {"name":"Bob","Age":30,
+ 	"Address":{"Street":"23 Sharp Crescent","City":"Bristol"}},
+ {"name":"Kaneko","Age":27,
+ 	"Address":{"Street":"7 Yuki Street","City":"Tokyo"}}
+]

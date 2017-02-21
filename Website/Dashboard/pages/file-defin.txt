@@ -1,0 +1,47 @@
+addCom.php - Allows users to add Communication Hubs (not the form, merely the user interface) ***NOTE TO DEVELOPER - FIX THE FORM
+
+addES.php - Allows users to add Earth Stations (not the form, merely the user interface)
+
+addpoint.php - Form for users to add the Earth Station (embeded into "addES.php")
+
+alerts.php - Allows users to view all the alerts, and delete them as well
+
+config.php - SECURED - Program that holds the database passwords
+
+editCom.php - Allows users to edit existing Communication Hubs (not the form, merely the user interface) ***NOTE TO DEVELOPER - FIX THE FORM
+
+editES.php - Allows users to edit existing Earth Stations (not the form, merely the user interface) ***NOTE TO DEVELOPER - FIX THE FORM
+
+esinfo.php - Shows the user basic information about the Earth Station (embeded into the Real Time data interface - "realtime.php")
+
+eslocater.php - Shows the user an advanced interface to let them see the location of their Earth Stations (embeded into the Locater User interface - "locater.php")
+
+histor.php - Advanced search engine that allows users to search for historical data entries based on date, Earth Station, Sensor or Plant (or all). ***NOTE TO DEVELOPER - DATE NEEDS WORK
+
+historResults.php - Shows the user the results of their previous search in the historical database in table format. ***NOTE TO DEVELOPER - SHOWING TIMESTAMP CURRENTLY IN TABLE, DATATABLE MULTIPLE PAGES NW?
+
+index.php - Allows users to view Real Time data about their sub farms (not the actual map, merely the user interface)
+
+locater.php - Allows users to view the location of their Earth Stations (not the actual map, merely the user interface)
+
+login.php - Allows users to login to the system as well as creating a sessions for the users upon login
+
+maplapse.php - Allows users to view a Timelapse of all the data (not the actual map, merely the user interface)
+
+maptest.php - ????
+
+plantinfo.php - User is redirected here after selecting one of the plants from their search results, they are shown all the data about the plant as well as Earth Stations monitoring that specific plant
+
+plantsearch.php - Advanced search engine that allows the users to search for a plant based on its common name and see a basic description
+
+polygon.php - Test ground to get polygon editing to work
+
+realtime.php - Shows the user the real time data about their Earth Stations on a map. ***NOTE TO DEVELOPER - CURRENTLY NOTE SHOWING REALTIME DATA, WHAT TO SHOW USER AFTER THEY SELECT AN ES HAS TO BE FIXED  
+
+timelapse.php - Shows the users a timelapse of the data based on intervals preset by the user. ***NOTE TO DEVELOPER - ADD COMMUNICATION HUB SEARCH, CHANGE RADIO BARS TO SLIDERS AND FIX THE BLUE SLIDER
+
+uploaddata.php - Script that the ARDUINO WIFI SHEILD will run to upload data to the database
+
+viewCom.php - Allows the user to view all their Communication Hubs in a table, delete, and edit them. ***NOTE TO DEVELOPER - DATATABLE MULTIPLE PAGES NW? 
+
+viewES.php - Allows the user to view all their Earth Stations in a table, delete, and edit them. ***NOTE TO DEVELOPER - DATATABLE MULTIPLE PAGES NW? 
