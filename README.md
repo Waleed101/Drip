@@ -1,6 +1,6 @@
 # Drip - Precision Irrigation for Emerging Nations
-[<h2>Video Demo of Drip</h2>](https://www.youtube.com/watch?v=vbiVwzZlqB4)
 [<h2>Drip Website</h2>](http://mydrip.ca/thesaas/)
+[<h2>Video Demo of Drip</h2>](https://www.youtube.com/watch?v=vbiVwzZlqB4)
 
 <img src="https://hackster.imgix.net/uploads/attachments/513454/image_OKPGOa0v3b.png?auto=compress%2Cformat&w=740&h=555&fit=max" width="100%"/>
 <img src="https://hackster.imgix.net/uploads/attachments/513443/image_672uhLhyA8.png?auto=compress%2Cformat&w=740&h=555&fit=max" width="100%"/>
